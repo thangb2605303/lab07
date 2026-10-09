@@ -1,1 +1,5 @@
-# lab07
+# lab07Markdown
+# Bài tập Lab 07 - Google Form
+
+- **Link Form nhập thông tin sinh viên K52:** [https://forms.gle/wK3E98Fd6piZzt1t5]
+- **Link Form đăng ký tham quan TMA:** [https://forms.gle/wK3E98Fd6piZzt1t5]
